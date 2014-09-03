@@ -359,7 +359,7 @@
     <None Include="Properties\PublishProfiles\pop.pubxml" />
     <None Include="Properties\PublishProfiles\profile1.pubxml" />
     <Content Include="Scripts\jquery.validate.js" />
-    <None Include="Scripts\jquery.validate.unobtrusive.js" />
+    <Content Include="Scripts\jquery.validate.unobtrusive.js" />
     <None Include="Doc\Readme.txt" />
     <None Include="Global.asax" />
     <None Include="Web.config">
